@@ -57,7 +57,6 @@ I specialize in bridging **AI, blockchain, and real-world data** to create **ful
 ### 🔥 Repositories & Open-Source Work
 
 * **Blockchain Projects:** [GitHub](https://github.com/OnChainMee/blockchain-projects)
-* **Solana Trading Bots:** [GitHub](https://github.com/OnChainMee/solana-trading-bot-service)
 
 ---
 
