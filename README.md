@@ -1,4 +1,4 @@
-# **Dillon | Blockchain AI Architect | Web3 Full-Stack Engineer**
+# **Blockchain AI Architect | Web3 Full-Stack Engineer**
 
 ### 🚀 About Me
 
