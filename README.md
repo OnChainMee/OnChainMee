@@ -17,12 +17,12 @@ I specialize in bridging **AI, blockchain, and real-world data** to create **ful
 
 | Project                                | Stack / Chain   | Description / Impact                                                                                                            |
 | -------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| **Agent AI CSR**                       | AI, Agent       | Proof of concept for agent AI customer service representative bot.                                                              |
+| **369-lore Dashboard**                 | ApeChain, NFT Game | Dashboard to show user's experience, signal and community xp                                                                 |
 | **Agent to Agent Payment Protocal**    | x402, AI        | A complete TypeScript implementation of the Python x402 payment protocol extension for A2A (Agent-to-Agent) communication.      |
 | **RWA (Real-World Activity) Platform** | EVM L2, AI, NFT | Gamifies fitness activity into NFT fighter stats; 5,200+ fighters dynamically updated off-chain with real-time OpenSea metadata |
 | **NFT Staking V2**                     | ApeChain        | Multi-chain NFT staking smart contract, gas-optimized with off-chain verification                                               |
 | **x402 & ERC-8004 Agent**              | x402, ERC-8004  | AI agent stack that combines A2A messaging + x402 micropayments + ERC‑8004 identity.                                            |
-| **Pump.fun Launchpad AI Agent**        | Solana          | AI-powered launchpad monitoring token launches, analyzing liquidity and volume                                                  |
+| **Monsto.fun**                         | Base            | gamified DeFi platform built around tokenized characters, staking pools, and referral-driven yield mechanics on Base            |
 
 > **Impact Highlights:**
 >
@@ -46,10 +46,9 @@ I specialize in bridging **AI, blockchain, and real-world data** to create **ful
 
 ### 📚 Recent Articles & Research
 
+* [Base App's SocialFi features 'didn't quite work'](https://www.theblock.co/post/392080/coinbase-ceo-brian-armstrong-says-base-apps-socialfi-features-didnt-quite-work)
 * [Ethereum to roll out ERC‑8004 for a global market in AI agents](https://forklog.com/en/ethereum-to-roll-out-erc%E2%80%918004-for-a-global-market-in-ai-agents/)
 * [Top 5 Blockchain Technology Trends 2026–2030](https://binariks.com/blog/emerging-blockchain-technology-trends/)
-* [Blockchain Trends Transforming Industries 2026](https://crustlab.com/blog/top-blockchain-trends/)
-* [AI Customer Support: The Use Cases, Best Practices, & Ethics](https://www.cxtoday.com/contact-center/ai-customer-support-the-use-cases-best-practices-ethics/)
 
 ---
 
