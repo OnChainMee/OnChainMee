@@ -12,7 +12,7 @@ I build **secure, high-performance blockchain systems** spanning **Solana, EVM c
 I specialize in bridging **AI, blockchain, and real-world data** to create **full-stack decentralized applications** that scale.
 
 ---
-### 🔥 Repositories & Open-Source Work
+### 🔥 Previous Works (EVM, Base, Apechain, Solana)
 
 * **Blockchain Projects:** [github.com/OnChainMee/blockchain-projects](https://github.com/OnChainMee/blockchain-projects)
 
