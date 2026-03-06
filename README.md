@@ -12,6 +12,11 @@ I build **secure, high-performance blockchain systems** spanning **Solana, EVM c
 I specialize in bridging **AI, blockchain, and real-world data** to create **full-stack decentralized applications** that scale.
 
 ---
+### 🔥 Repositories & Open-Source Work
+
+* **Blockchain Projects:** [github.com/OnChainMee/blockchain-projects](https://github.com/OnChainMee/blockchain-projects)
+
+---
 
 ### 🌟 Selected Projects & Impact
 
@@ -34,7 +39,8 @@ I specialize in bridging **AI, blockchain, and real-world data** to create **ful
 
 ### 🛠 Tech Stack
 
-**Blockchain & Smart Contracts:** <img alt="Solana" src="https://img.shields.io/badge/-Solana-E34F26?style=flat-square&logo=solana5&logoColor=white" /> <img alt="Ethereum" src="https://img.shields.io/badge/-EVM-DD0031?style=flat-square&logo=ethereum&logoColor=white" /> <img alt="Bitcoin" src="https://img.shields.io/badge/-Bitcoin-43853d?style=flat-square&logo=Bitcoin&logoColor=white" />
+**Blockchain & Smart Contracts:** <img alt="Solana" src="https://img.shields.io/badge/-Solana-E34F26?style=flat-square&logo=solana5&logoColor=white" /> <img alt="Ethereum" src="https://img.shields.io/badge/-EVM-DD0031?style=flat-square&logo=ethereum&logoColor=white" /> <img alt="Bitcoin" src="https://img.shields.io/badge/-Bitcoin-43853d?style=flat-square&logo=Bitcoin&logoColor=white" /> <img alt="Base" src="https://img.shields.io/badge/Base-0052FF?style=flat-square&logo=base&logoColor=white" /> <img alt="ApeChain" src="https://img.shields.io/badge/ApeChain-0054FF?style=flat-square&logo=apecoin&logoColor=white" />
+
 
 **Backend / AI:** <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-007ACC?style=flat-square&logo=solidity&logoColor=Gray" /> <img alt="Python" src="https://img.shields.io/badge/-Python-DD0031?style=flat-square&logo=python&logoColor=white" /> <img alt="Rust" src="https://img.shields.io/badge/-Rust-007ACC?style=flat-square&logo=rust&logoColor=white" /> <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square" /> <img alt="LangGraph" src="https://img.shields.io/badge/-LangGraph-8A2BE2?style=flat-square" />
 
@@ -49,12 +55,6 @@ I specialize in bridging **AI, blockchain, and real-world data** to create **ful
 * [Base App's SocialFi features 'didn't quite work'](https://www.theblock.co/post/392080/coinbase-ceo-brian-armstrong-says-base-apps-socialfi-features-didnt-quite-work)
 * [Ethereum to roll out ERC‑8004 for a global market in AI agents](https://forklog.com/en/ethereum-to-roll-out-erc%E2%80%918004-for-a-global-market-in-ai-agents/)
 * [Top 5 Blockchain Technology Trends 2026–2030](https://binariks.com/blog/emerging-blockchain-technology-trends/)
-
----
-
-### 🔥 Repositories & Open-Source Work
-
-* **Blockchain Projects:** [GitHub](https://github.com/OnChainMee/blockchain-projects)
 
 ---
 
